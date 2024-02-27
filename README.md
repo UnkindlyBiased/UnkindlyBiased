@@ -7,7 +7,7 @@ Also:
 - 🏁 a big fan of motorsport (F1 and its younger series (from F2 to F4), WEC, WRC, IMSA)
 - 🖌 finds interest in design (Adobe Photoshop)
 - 🎧 enjoys music so much
-### 🎓 Currently: studying Software Engineering at [Zhytomyr Polytechnic State University](https://ztu.edu.ua/). Open for offers
+### 🎓 Currently: studying Software Engineering at [Zhytomyr Polytechnic State University](https://ztu.edu.ua/).
 
 
 # 💻 Tech Stack:
